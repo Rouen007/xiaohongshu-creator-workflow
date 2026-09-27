@@ -1,0 +1,4 @@
+interface:
+  display_name: "Xiaohongshu Creator"
+  short_description: "Plan, design, and publish Xiaohongshu posts"
+  default_prompt: "Help me turn my experience or source material into a polished Xiaohongshu post with a reviewable draft and visuals."
